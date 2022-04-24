@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD53D68D2811F7E0005BF371 /* HW1 - Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD53D68C2811F7E0005BF371 /* HW1 - Bad Version.swift */; };
+		AD53D68E2811F7E0005BF371 /* HW1 - Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD53D68C2811F7E0005BF371 /* HW1 - Bad Version.swift */; };
 		ADDF27C427BCB56E000D207B /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDF27C327BCB56E000D207B /* Tests_iOS.swift */; };
 		ADDF27C627BCB56E000D207B /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDF27C527BCB56E000D207B /* Tests_iOSLaunchTests.swift */; };
 		ADDF27D027BCB56E000D207B /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDF27CF27BCB56E000D207B /* Tests_macOS.swift */; };
@@ -41,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AD53D68C2811F7E0005BF371 /* HW1 - Bad Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HW1 - Bad Version.swift"; sourceTree = "<group>"; };
 		ADDF27A927BCB567000D207B /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
 		ADDF27AA27BCB567000D207B /* PHYS440App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PHYS440App.swift; sourceTree = "<group>"; };
 		ADDF27AB27BCB567000D207B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -108,6 +111,7 @@
 				ADDF27AC27BCB567000D207B /* Persistence.swift */,
 				ADDF27AD27BCB56D000D207B /* Assets.xcassets */,
 				ADDF27A827BCB567000D207B /* PHYS440.xcdatamodeld */,
+				AD53D68C2811F7E0005BF371 /* HW1 - Bad Version.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -311,6 +315,7 @@
 				ADDF27D927BCB56E000D207B /* Persistence.swift in Sources */,
 				ADDF27D327BCB56E000D207B /* PHYS440.xcdatamodeld in Sources */,
 				ADDF27D727BCB56E000D207B /* ContentView.swift in Sources */,
+				AD53D68D2811F7E0005BF371 /* HW1 - Bad Version.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,6 +327,7 @@
 				ADDF27DA27BCB56E000D207B /* Persistence.swift in Sources */,
 				ADDF27D427BCB56E000D207B /* PHYS440.xcdatamodeld in Sources */,
 				ADDF27D827BCB56E000D207B /* ContentView.swift in Sources */,
+				AD53D68E2811F7E0005BF371 /* HW1 - Bad Version.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
